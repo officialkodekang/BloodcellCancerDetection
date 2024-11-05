@@ -24,4 +24,5 @@ This project implements an "Automated deep learning approach for classification 
 
 ## Documentation
 
-For further details about the methodology and results, visit the [documentation website](www.oncoxiv.com).
+For further details about the methodology and results, visit the [documentation website](https://www.oncoxiv.com).
+
