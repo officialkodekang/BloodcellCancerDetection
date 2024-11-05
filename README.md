@@ -21,3 +21,7 @@ This project implements an "Automated deep learning approach for classification 
 
 ### VGG Loss
 ![VGG Loss](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/vggloss.png)
+
+## Documentation
+
+For further details about the methodology and results, visit the [documentation website](www.oncoxiv.com).
