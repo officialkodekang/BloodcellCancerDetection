@@ -1,29 +1,23 @@
-# Blood cell Cancer detection
-Implemented methodology of "Automated deep learning approach for classification of malignant and benign for blood cancer detection"
+# Blood cell Cancer Detection
 
-## Sample images
+This project implements an "Automated deep learning approach for classification of malignant and benign for blood cancer detection" using deep learning models.
 
-![Sample](![Sample](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/samplesimages.png)
+## Sample Images
 
+![Sample Image](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/samplesimages.png)
 
 ## Class Distribution
 
-![Sample](![Sample](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/binaryclassdistibution.png)
-![Sample](![Sample](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/subtypeclassdistribution.png)
+### Binary Class Distribution
+![Binary Class Distribution](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/binaryclassdistibution.png)
 
+### Subtype Class Distribution
+![Subtype Class Distribution](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/subtypeclassdistribution.png)
 
+## Model Losses
 
-## Resnet Loss
+### ResNet Loss
+![ResNet Loss](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/resnetloss.png)
 
-
-![Sample](![Sample2](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/resnetloss.png)
-
-## VGG Loss
-
-![Sample](![Sample2](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/vggloss.png)
-
-
-
-
-
-
+### VGG Loss
+![VGG Loss](https://raw.githubusercontent.com/officialkodekang/BloodcellCancerDetection/refs/heads/main/assets/vggloss.png)
